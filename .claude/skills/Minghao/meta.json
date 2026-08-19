@@ -2,8 +2,8 @@
   "name": "Minghao",
   "slug": "Minghao",
   "created_at": "2026-08-20T00:00:00+10:00",
-  "updated_at": "2026-08-20T00:00:00+10:00",
-  "version": "v1",
+  "updated_at": "2026-08-20T01:00:00+10:00",
+  "version": "v1.1",
   "profile": {
     "age": "[待补充]",
     "occupation": "持续学习、课程/项目与职业探索阶段（依据聊天材料）",
@@ -20,5 +20,5 @@
   "memory_sources": [
     "聊天记录/texts 下 26 份 Markdown 会话（约 126,609 条消息，2021-07 至 2026-08）"
   ],
-  "corrections_count": 0
+  "corrections_count": 1
 }
