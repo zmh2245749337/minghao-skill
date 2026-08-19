@@ -1,0 +1,8 @@
+# Keep this repository limited to the published skill.
+/*
+!/.gitignore
+!/README.md
+!/.claude/
+!/.claude/skills/
+!/.claude/skills/Minghao/
+!/.claude/skills/Minghao/**

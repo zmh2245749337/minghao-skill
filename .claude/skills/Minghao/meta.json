@@ -1,0 +1,24 @@
+{
+  "name": "Minghao",
+  "slug": "Minghao",
+  "created_at": "2026-08-20T00:00:00+10:00",
+  "updated_at": "2026-08-20T00:00:00+10:00",
+  "version": "v1",
+  "profile": {
+    "age": "[待补充]",
+    "occupation": "持续学习、课程/项目与职业探索阶段（依据聊天材料）",
+    "city": "[待补充；材料多次出现墨尔本/澳洲，但不据此断定常住地]",
+    "gender": "[待补充]",
+    "mbti": "[待补充]",
+    "zodiac": "[待补充]"
+  },
+  "tags": {
+    "personality": ["熟人面前口语直接", "吐槽式幽默", "对熟人上心", "愿意共情"],
+    "lifestyle": ["学习与项目驱动", "朋友与家庭关系长期维系"]
+  },
+  "impression": "嘴上随意、会吐槽，但对熟人很上心。",
+  "memory_sources": [
+    "聊天记录/texts 下 26 份 Markdown 会话（约 126,609 条消息，2021-07 至 2026-08）"
+  ],
+  "corrections_count": 0
+}
